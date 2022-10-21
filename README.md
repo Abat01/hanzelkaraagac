@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hi there 👋, Hanzel Karaagac
+#### QA Engineer and Development
+![QA Engineer and Development](https://raw.githubusercontent.com/ghosharnab00/ghosharnab00/output/github-contribution-grid-snake.svg)
 
-<img src="![github-contribution-grid-snake](https://user-images.githubusercontent.com/113600705/197190890-a08bde42-3cbd-4838-84e8-d9350736a439.gif)
-" />
+
+Skills: Software Test Engineer | Java | Selenium | Cucumber | JIRA| SQL
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanzelkaraagac)](https://github.com/anuraghazra/github-readme-stats)
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hanzelkaraagac)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hanzelkaraagac/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hanzelkaraagac/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/hanzelkaraagac)  
 
